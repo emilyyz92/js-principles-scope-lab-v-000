@@ -2,7 +2,7 @@
 customerName = `bob`;
 
 function upperCaseCustomerName(name) {
-  return name.toUppercase();
+  return customerName.toUppercase;
 }
 
 function bestCustomer() {
